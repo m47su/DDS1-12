@@ -9,7 +9,7 @@ public class Exercicio19 {
         Integer tipoPagamento = scanner.nextInt();
         Boolean pagamentoAVista = tipoPagamento.equals(1);
         Double juros = 0.0;
-        if (!pagamentoAVista) {
+        if (!pagamentoAVista) { //a exclamação deixa o contrario da variavel, ou seja, nesse caso, se pagamento a prazo recebe 10
             juros = 10.0;}
         Double acrescimo = valorProduto * juros / 100;
         Double valorTotal = acrescimo + valorProduto;
