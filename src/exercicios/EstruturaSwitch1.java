@@ -1,6 +1,6 @@
 package exercicios;
 import java.util.Scanner;
-public class EstruturaSwitch {
+public class EstruturaSwitch1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite seu número do dia da semana, sabendo que a semana começa do Domingo: ");
