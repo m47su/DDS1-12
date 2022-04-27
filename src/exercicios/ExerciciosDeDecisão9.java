@@ -35,7 +35,6 @@ public class ExerciciosDeDecisão9 {
                 if (numeroQueVemNoTerceiroLugarComTres)
                     System.out.println("A sua ordem é: " + numero1 + " " + numero2+ " " + numero3);
         }
-
         if (numeroQueVemNoPrimeiroLugarComDois) {
             if (numeroQueVemNoSegundoLugarComUm)
                 if (numeroQueVemNoTerceiroLugarComTres)

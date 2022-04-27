@@ -34,6 +34,5 @@ public class EstruturaSwitch1 {
         }
         System.out.println("O seu dia da semana é " + diaDaSemana);
         scanner.close();
-
     }
 }

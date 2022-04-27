@@ -23,8 +23,6 @@ public class Vetores1 {
         for (int i = 0; i < tarefa.length; i++) {
             System.out.println("[" + (i+1) + "]" + tarefa[i]);
             scanner.close();
-
-
         }
     }
 }
