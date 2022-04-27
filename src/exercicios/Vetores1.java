@@ -24,6 +24,7 @@ public class Vetores1 {
             System.out.println("[" + (i+1) + "]" + tarefa[i]);
             scanner.close();
 
+
         }
     }
 }
