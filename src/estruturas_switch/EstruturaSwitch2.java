@@ -1,4 +1,4 @@
-package exercicios;
+package estruturas_switch;
 public class EstruturaSwitch2 {
     static final Integer DIVISOR = 3;
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package exercicios;
+package estruturas_switch;
 import java.util.Scanner;
 public class EstruturaSwitch1 {
     public static void main(String[] args) {

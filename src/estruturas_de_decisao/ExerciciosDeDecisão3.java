@@ -1,4 +1,4 @@
-package exercicios;
+package estruturas_de_decisao;
 import java.util.Scanner;
 public class ExerciciosDeDecisão3 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package exercicios;
+package estruturas_de_metodo;
 import java.util.Scanner;
 public class Método2 {
 
