@@ -7,5 +7,4 @@ public class Produto {
     Double precoUnitario;
 
     Integer quantidade;
-
 }
