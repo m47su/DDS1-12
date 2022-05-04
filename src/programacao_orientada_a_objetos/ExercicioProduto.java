@@ -18,8 +18,6 @@ public class ExercicioProduto {
     private static Boolean precisaOuNaoRepor(Produto produto, Integer quantidadeRecebida) {
 
         Boolean precisaRepor = quantidadeRecebida < produto.quantidade;
-
-
        if (precisaRepor) {
            System.out.println("Você precisa repor! Seu estoque está abaixo do limite");
 
