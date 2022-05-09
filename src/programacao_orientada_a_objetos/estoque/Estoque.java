@@ -13,13 +13,10 @@ public class Estoque {
         Boolean precisaRepor = quantidadeRecebida < quantidadeMinimaDeEstoque;
         if (precisaRepor) {
             System.out.println("Você precisa repor! Seu estoque está abaixo do limite");
-
         }
-
             if (!precisaRepor) {
                 System.out.println("Você não precisa repor! Está tudo nos conformes.");
             }
-
         return precisaRepor;
     }
 }
