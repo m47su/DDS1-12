@@ -30,6 +30,8 @@ public class Petshop {
             cachorro.idade = scanner.nextInt();
         }
         fichaCompleta(cachorro);
+
+
     }
     public static void fichaCompleta(Cachorro cachorro) {
         System.out.println("NOME DO PET: " + cachorro.nome + "\n" + "SEXO DO PET: " + cachorro.sexo + "\n" + "RAÇA DO PET: " + cachorro.raca + "\n" + "IDADE DO SEU PET: " + cachorro.idade  );
